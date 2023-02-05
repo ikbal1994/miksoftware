@@ -1,4 +1,4 @@
-# miksoftware
-Nöbet Hesaplayıcı Gizlilik Politikası
+# Nöbet Hesaplayıcı Gizlilik Politikası
+
 Uygulama kapsamında alınan bilgiler geçici bellek üzerinde(yalnızca kendi cihazınız kapsamında) işlenir, hiç kimse ile paylaşılmaaz.Bu nedenle uygulamanın kullanımı güvenlidir.
--Google Amob tarafından tanımlatılan reklam kimliği uygulamada kullanıldığından zaman zaman tarafınıza rekklam gösterilmektedir.Bu reklamlar veya uygulamamız, kesinlikle siz kullanıcılarımızdan herhangi bir veri alarak işlemezler.Nöbet Hesaplayıcı uygulamamızın bir bulut sistemi veya sunucu ile bağlantı durumu söz konsudu değildir.Reklamlar Google tarafından google_mobile_ads 2.3.0 paketi refaransı ile tarafınıza gösterilmektedir.   
+-Google tarafından tanımlatılan reklam kimliği uygulamada kullanıldığından zaman zaman tarafınıza rekklam gösterilmektedir.Bu reklamlar veya uygulamamız. Nöbet Hesaplayıcı uygulamamızın bir bulut sistemi veya sunucu ile bağlantısı yoktur.Reklamlar google_mobile_ads 2.3.0 paketi refaransı ile tarafınıza gösterilmektedir. Uygulamamamızda hesap hataları olması durumunda mail ile tarafımızla iletişime geçmeniz durumunda en kısa zamanda sorun giderilecektir.Bu uygulama her ne kadar iş hayatını hızlandırmak ve yardımcı olmak adına üretilmiş olsada bir aksaklığa veya olumsuzluğa mahal vermesi drumunda sorumluluk kabul etmemektedir.
